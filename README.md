@@ -1,1 +1,0 @@
-This is a practice repository for adding gitignore files.
